@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.roncoo.education.SpringBootDemo51ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.798 sec - in com.roncoo.education.SpringBootDemo51ApplicationTests
